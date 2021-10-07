@@ -7,9 +7,15 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server/index.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git https://github.com/Jon-Snow1221/deployment-demo"
+  },
+
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "homepage": "https://github.com/Jon-Snow1221/deployment-demo",
   "dependencies": {
     "express": "^4.17.1"
   }
